@@ -1,0 +1,58 @@
+body {
+    background-color: #e6e2d3;
+    padding-bottom: 70px;
+}
+.palaute {
+    background-color: #3e4444;
+    color: white;
+}
+.paaotsikko {
+    text-align: center;
+}
+.arvostelut {
+    margin: 25px;
+}
+.pitkateksti {
+    word-break: break-all;
+}
+.alusta {
+    background-color: #c4b7a6;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+}
+.navigaattori {
+    background-color:  #c4b7a6;
+}
+.etusivunosat {
+    padding: 10px;
+}
+.kirja {
+    padding: 10px;
+    margin: 25px;
+}
+#arvostelunappula {
+    padding: 10px;
+    margin: 25px;
+}
+#tekstialue {
+    padding: 10px;
+    margin: 25px;
+}
+a:link {
+    color: darkblue;
+}
+a:visited {
+    color: #54777d;
+}
+#ehdotus {
+    margin: auto;
+    width: 70%;
+}
+#otsikko3 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#tekstialue {
+    margin: 25px;
+}
