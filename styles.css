@@ -5,12 +5,13 @@ body {
 .palaute {
     background-color: #3e4444;
     color: white;
+    margin-top: 2px;
 }
 .paaotsikko {
     text-align: center;
 }
 .arvostelut {
-    margin: 25px;
+    margin-top: 25px;
 }
 .pitkateksti {
     word-break: break-all;
@@ -29,15 +30,18 @@ body {
 }
 .kirja {
     padding: 10px;
-    margin: 25px;
 }
 #arvostelunappula {
     padding: 10px;
     margin: 25px;
 }
 #tekstialue {
-    padding: 10px;
-    margin: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#oma {
+   margin-top:10px;
+   
 }
 a:link {
     color: darkblue;
@@ -52,7 +56,4 @@ a:visited {
 #otsikko3 {
     margin-top: 25px;
     margin-bottom: 25px;
-}
-#tekstialue {
-    margin: 25px;
 }
